@@ -1,1 +1,1 @@
-mkdir ddd
+mkdir /root/dockerverify/ddd
