@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
-  <artifactId>java-tomcat-maven-example</artifactId>
+  <artifactId>dockerverify</artifactId>
   <packaging>war</packaging>
-  <version>4.1-SNAPSHOT</version>
+  <version>4.9-SNAPSHOT</version>
   <name>hello Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
