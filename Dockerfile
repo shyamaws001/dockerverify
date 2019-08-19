@@ -25,4 +25,3 @@ Run cd /opt/tomcat/bin
 expose 8080
 #CMD /opt/tomcat/bin/catalina.sh run && tail -f /opt/tomcat/logs/catalina.out
 CMD ["/opt/tomcat/bin/catalina.sh", "run"]
-CMD docker "run -d -p 8087:8080 mmm1"
